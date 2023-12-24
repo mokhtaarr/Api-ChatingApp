@@ -65,3 +65,5 @@ G:\torrent udemy courses\[FreeCourseSite.com] Udemy - Build an app with ASPNET C
 G:\torrent udemy courses\[FreeCourseSite.com] Udemy - Build an app with ASPNET Core and Angular from scratch\Cahting App\ChatingApp\ChatingApp\obj\Debug\net7.0\ChatingApp.pdb
 G:\torrent udemy courses\[FreeCourseSite.com] Udemy - Build an app with ASPNET Core and Angular from scratch\Cahting App\ChatingApp\ChatingApp\obj\Debug\net7.0\ChatingApp.genruntimeconfig.cache
 G:\torrent udemy courses\[FreeCourseSite.com] Udemy - Build an app with ASPNET Core and Angular from scratch\Cahting App\ChatingApp\ChatingApp\obj\Debug\net7.0\ref\ChatingApp.dll
+G:\torrent udemy courses\[FreeCourseSite.com] Udemy - Build an app with ASPNET Core and Angular from scratch\Cahting App\ChatingApp\ChatingApp\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+G:\torrent udemy courses\[FreeCourseSite.com] Udemy - Build an app with ASPNET Core and Angular from scratch\Cahting App\ChatingApp\ChatingApp\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
